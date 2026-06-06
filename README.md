@@ -2,4 +2,4 @@
 
 Android TV & phone streaming app.
 
-Download the latest APK from the [Releases](../../releases) page.
+**Download:** [WadeOnDemand.apk](../../raw/main/WadeOnDemand.apk)
