@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "3.3",
-  "apk": "https://raw.githubusercontent.com/bison164/Wade-on-demand/main/WadeOnDemand.apk?v=7",
-  "notes": "Discover: every community list, sorted by Newest, Biggest, A–Z, Z–A or Shuffle."
+  "versionCode": 8,
+  "versionName": "3.4",
+  "apk": "https://raw.githubusercontent.com/bison164/Wade-on-demand/main/WadeOnDemand.apk?v=8",
+  "notes": "New ALLBLK network, cross-referenced with TMDB: 230 movies and shows with posters and details."
 }
