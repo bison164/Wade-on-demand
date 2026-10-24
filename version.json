@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "3.4",
-  "apk": "https://raw.githubusercontent.com/bison164/Wade-on-demand/main/WadeOnDemand.apk?v=8",
-  "notes": "New ALLBLK network, cross-referenced with TMDB: 230 movies and shows with posters and details."
+  "versionCode": 9,
+  "versionName": "3.5",
+  "apk": "https://raw.githubusercontent.com/bison164/Wade-on-demand/main/WadeOnDemand.apk?v=9",
+  "notes": "VidSrc starts with subtitles off, and Back leaves the player instead of stepping through every source you tried."
 }
