@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "3.5",
-  "apk": "https://raw.githubusercontent.com/bison164/Wade-on-demand/main/WadeOnDemand.apk?v=9",
-  "notes": "VidSrc starts with subtitles off, and Back leaves the player instead of stepping through every source you tried."
+  "versionCode": 10,
+  "versionName": "3.6",
+  "apk": "https://raw.githubusercontent.com/bison164/Wade-on-demand/main/WadeOnDemand.apk?v=10",
+  "notes": "Back leaves the player instead of stepping through every source you tried. VidSrc subtitles are left alone again."
 }
